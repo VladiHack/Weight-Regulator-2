@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeightRegulator", "WeightRegulator.csproj", "{76DB63A5-B3CA-4BF7-98F6-A2921FD72560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "..\Business\Business.csproj", "{574C3A85-EB44-49ED-910F-206873D60833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj", "{1B4DAE7A-458F-4637-96C0-7D5E2129CD66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76DB63A5-B3CA-4BF7-98F6-A2921FD72560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DB63A5-B3CA-4BF7-98F6-A2921FD72560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DB63A5-B3CA-4BF7-98F6-A2921FD72560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DB63A5-B3CA-4BF7-98F6-A2921FD72560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574C3A85-EB44-49ED-910F-206873D60833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574C3A85-EB44-49ED-910F-206873D60833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574C3A85-EB44-49ED-910F-206873D60833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574C3A85-EB44-49ED-910F-206873D60833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4DAE7A-458F-4637-96C0-7D5E2129CD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4DAE7A-458F-4637-96C0-7D5E2129CD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4DAE7A-458F-4637-96C0-7D5E2129CD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4DAE7A-458F-4637-96C0-7D5E2129CD66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E2EFE9F-C6E7-4DCA-B023-16972FEC3712}
+	EndGlobalSection
+EndGlobal
